@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  node:
+    container_name: cotecerto_node
+    build: ./
+    env_file: .env.production
+    ports:
+      - "8000:8000"
+      - "56745:56745"
+    volumes:
+      - ./:/app
+    command: yarn start

@@ -1,0 +1,32 @@
+{
+  "mostCategories": [
+    {
+      "mobileImageUrl": "/assets/mock/categoria-notebook.png",
+      "desktopImageUrl": "/assets/mock/categoria-notebook.png",
+      "title": "Notebook",
+      "urlRedirect": "/categoria?name=notebooks",
+      "subtitle": "Ofertas de Notebooks das melhores marcas e com ótimos descontos"
+    },
+    {
+      "mobileImageUrl": "/assets/mock/categoria-lavanderia.png",
+      "desktopImageUrl": "/assets/mock/categoria-lavanderia.png",
+      "title": "Lavanderia",
+      "urlRedirect": "/categoria?name=lavanderia",
+      "subtitle": "Ofertas de Notebooks das melhores marcas e com ótimos descontos"
+    },
+    {
+      "mobileImageUrl": "/assets/mock/categoria-brinquedos.png",
+      "desktopImageUrl": "/assets/mock/categoria-brinquedos.png",
+      "title": "Notebook",
+      "urlRedirect": "/categoria?name=brinquedos",
+      "subtitle": "Ofertas de Notebooks das melhores marcas e com ótimos descontos"
+    },
+    {
+      "mobileImageUrl": "/assets/mock/categoria-cozinha.png",
+      "desktopImageUrl": "/assets/mock/categoria-cozinha.png",
+      "title": "Cozinha",
+      "urlRedirect": "/categoria?name=cozinha",
+      "subtitle": "Ofertas de Notebooks das melhores marcas e com ótimos descontos"
+    }
+  ]
+}

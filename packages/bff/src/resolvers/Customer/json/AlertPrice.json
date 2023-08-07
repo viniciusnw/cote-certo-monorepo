@@ -1,0 +1,28 @@
+{
+  "ComparsionProduct": [
+    {
+      "title": "Playstation 5 - Sony / 1TB",
+      "previousPrice": 6480,
+      "price": 5799,
+      "alertPrice": 5800,
+      "imageUrl": "/assets/mock/products/product-14.png",
+      "urlRedirect": "http://localhost:3000/produto/14"
+    },
+    {
+      "title": "Playstation 5 - Sony / 1TB",
+      "previousPrice": 6480,
+      "price": 5799,
+      "alertPrice": 5800,
+      "imageUrl": "/assets/mock/products/product-13.png",
+      "urlRedirect": "http://localhost:3000/produto/13"
+    },
+    {
+      "title": "Playstation 5 - Sony / 1TB",
+      "previousPrice": 6480,
+      "price": 5799,
+      "alertPrice": 5800,
+      "imageUrl": "/assets/mock/products/product-13.png",
+      "urlRedirect": "http://localhost:3000/produto/13"
+    }
+  ]
+}

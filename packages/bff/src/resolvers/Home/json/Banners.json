@@ -1,0 +1,74 @@
+{
+  "carousel": [
+    {
+      "subtitle": "Televisores",
+      "buttonText": "Ver produtos",
+      "backgroundColor": "#39D064",
+      "title": "Os melhores preços de",
+      "mobileImageUrl": "/assets/mock/carousel/slider-1.png",
+      "desktopImageUrl": "/assets/mock/carousel/slider-1.png",
+      "urlRedirect": "/categoria?name=televisores"
+    },
+    {
+      "subtitle": "Televisores",
+      "buttonText": "Ver produtos",
+      "backgroundColor": "#5f9ea0",
+      "title": "Os melhores preços de",
+      "mobileImageUrl": "/assets/mock/carousel/slider-1.png",
+      "desktopImageUrl": "/assets/mock/carousel/slider-1.png",
+      "urlRedirect": "/categoria?name=televisores"
+    },
+    {
+      "subtitle": "Televisores",
+      "buttonText": "Ver produtos",
+      "backgroundColor": "#39D064",
+      "title": "Os melhores preços de",
+      "mobileImageUrl": "/assets/mock/carousel/slider-1.png",
+      "desktopImageUrl": "/assets/mock/carousel/slider-1.png",
+      "urlRedirect": "/categoria?name=televisores"
+    },
+    {
+      "mobileImageUrl": "/assets/mock/carousel/banner-1.png",
+      "desktopImageUrl": "/assets/mock/carousel/banner-1.png",
+      "urlRedirect": "/categoria?name=televisores"
+    }
+  ],
+  "productsBanners": [
+    {
+      "mobileImageUrl": "/assets/mock/products/banner-1.png",
+      "desktopImageUrl": "/assets/mock/products/banner-1.png",
+      "urlRedirect": "/categoria?marca=samsung&product=galaxy-buds-pro"
+    },
+    {
+      "mobileImageUrl": "/assets/mock/products/banner-2.png",
+      "desktopImageUrl": "/assets/mock/products/banner-2.png",
+      "urlRedirect": "/categoria?marca=apple&product=iphone-11"
+    }
+  ],
+  "banners": [
+    "/assets/mock/bannersMarcas/iphone.png",
+    "/assets/mock/bannersMarcas/xiaomi.png",
+    "/assets/mock/bannersMarcas/sony.png",
+    "/assets/mock/bannersMarcas/oex.png",
+    "/assets/mock/bannersMarcas/tv.png"
+  ],
+
+  "featureBanners": [
+    {
+      "title": "MELHOR PREÇO DO MERCADO",
+      "subtitle": "R$ 50 De desconto na primeira compra",
+      "urlRedirect": "/pagina?name=desconto-50",
+      "mobileImageUrl": "/assets/mock/suggests/banner-1.png",
+      "desktopImageUrl": "/assets/mock/suggests/banner-1.png",
+      "buttonText": "Veja mais"
+    },
+    {
+      "title": "ANUNCIE GRÁTIS",
+      "subtitle": "Venda seus produtos mais rápido",
+      "urlRedirect": "/pagina?name=anuncie-gratis",
+      "mobileImageUrl": "/assets/mock/suggests/banner-2.png",
+      "desktopImageUrl": "/assets/mock/suggests/banner-2.png",
+      "buttonText": "Veja mais"
+    }
+  ]
+}

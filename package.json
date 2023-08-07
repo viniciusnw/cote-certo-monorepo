@@ -1,0 +1,33 @@
+{
+  "name": "cotecerto",
+  "repository": "",
+  "private": true,
+  "engines": {
+    "node": "^14.15.0"
+  },
+  "scripts": {
+    "start:bff": "yarn workspace @cotecerto/bff start:dev",
+    "start:bff:debug": "yarn workspace @cotecerto/bff start:debug",
+    "start:frontend": "yarn workspace @cotecerto/frontend start:dev",
+    "start:seller": "yarn workspace @cotecerto/seller start:dev",
+    "clean": "rimraf node_modules **/node_modules **/.next **/build"
+  },
+  "workspaces": {
+    "nohoist": [
+      "@cotecerto/components/**",
+      "@cotecerto/seller/**",
+      "@cotecerto/frontend/**",
+      "@cotecerto/bff/**"
+    ],
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^4.3.8",
+    "rimraf": "^3.0.2"
+  }
+}

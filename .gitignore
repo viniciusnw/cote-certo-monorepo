@@ -1,0 +1,33 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#devspace
+.devspace/
+
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# production
+build/
+
+# misc
+.DS_Store
+
+.vscode
+notes.md
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# JetBrains
+.idea/
+
+# Logs
+logs/
+
+#temp
+tsconfig.*.json

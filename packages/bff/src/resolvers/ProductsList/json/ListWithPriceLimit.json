@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "minPrice": 343.9,
+      "mobileImageUrl": "/assets/mock/products/product-9.png",
+      "desktopImageUrl": "/assets/mock/products/product-9.png",
+      "urlRedirect": "/produto?name=sony-playstation-5-825gb-standard-cor-branco-e-preto",
+      "title": "Tênis Nike Court Vision Mid Masculino"
+    },
+    {
+      "minPrice": 319.9,
+      "mobileImageUrl": "/assets/mock/products/product-11.png",
+      "desktopImageUrl": "/assets/mock/products/product-11.png",
+      "urlRedirect": "/produto?name=apple-iphone-11-128-gb-preto",
+      "title": "Fritadeira elétricaGourmet Air Fryer 4 L 4L preta 127V"
+    },
+    {
+      "minPrice": 1719.0,
+      "mobileImageUrl": "/assets/mock/products/product-12.png",
+      "desktopImageUrl": "/assets/mock/products/product-12.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Ar condicionado LG Dual split frio 9000 BTU branco"
+    },
+    {
+      "minPrice": 1599.0,
+      "mobileImageUrl": "/assets/mock/products/product-8.png",
+      "desktopImageUrl": "/assets/mock/products/product-8.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Máquina de lavar automática Consul CWH12A branca 12kg"
+    },
+    {
+      "minPrice": 1589.0,
+      "mobileImageUrl": "/assets/mock/products/product-7.png",
+      "desktopImageUrl": "/assets/mock/products/product-7.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Máquina de lavar automática Electrolux LAC13 branca 13kg"
+    },
+    {
+      "minPrice": 139.9,
+      "mobileImageUrl": "/assets/mock/products/product-10.png",
+      "desktopImageUrl": "/assets/mock/products/product-10.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Cafeteira Mondial C-32 semi automática preta de filtro 110V"
+    }
+  ]
+}

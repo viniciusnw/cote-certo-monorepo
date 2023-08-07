@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "information": "Alerta de preços",
+      "urlRedirect": "http://localhost:3000/alerta-de-precos"
+    },
+    {
+      "information": "Avaliação de lojas",
+      "urlRedirect": "http://localhost:3000/avaliacoes-em-lojas"
+    },
+    {
+      "information": "Avaliação em produtos",
+      "urlRedirect": "http://localhost:3000/avaliacoes-em-produtos"
+    },
+    {
+      "information": "Minha conta",
+      "urlRedirect": "http://localhost:3000/minha-conta"
+    },
+    {
+      "information": "Sair ",
+      "urlRedirect": "http://localhost:3000"
+    }
+  ]
+}

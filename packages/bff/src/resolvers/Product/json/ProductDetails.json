@@ -1,0 +1,149 @@
+{
+  "productHeader": {
+    "title": "Sony PlayStation 5 825GB Standard cor branco e preto",
+    "rating": 4.5,
+    "price": 6749.1,
+    "stores": 2,
+    "chartData": {
+      "weekly": {
+        "labels": [
+          "Segunda",
+          "Terça",
+          "Quarta",
+          "Quinta",
+          "Sexta",
+          "Sabado",
+          "Quinta"
+        ],
+        "values": [
+          10,
+          25,
+          10,
+          5,
+          20,
+          15,
+          45,
+          50
+        ]
+      },
+      "monthly": {
+        "labels": [
+          "Janeiro",
+          "Fevereiro",
+          "Março",
+          "Abril",
+          "Maio",
+          "Junho",
+          "Julho",
+          "Agosto"
+        ],
+        "values": [
+          10,
+          25,
+          10,
+          5,
+          20,
+          15,
+          45,
+          50
+        ]
+      }
+    },
+    "gallery": [
+      {
+        "original": "/assets/mock/product/image.png",
+        "thumbnail": "/assets/mock/product/image-thumb.png"
+      },
+      {
+        "original": "/assets/mock/product/image.png",
+        "thumbnail": "/assets/mock/product/image-thumb.png"
+      },
+      {
+        "original": "/assets/mock/product/image.png",
+        "thumbnail": "/assets/mock/product/image-thumb.png"
+      }
+    ],
+    "priceRange": {
+      "lowestPrice": {
+        "date": "2021/6/1",
+        "value": 5479.1
+      },
+      "biggestPrice": {
+        "date": "2021/8/27",
+        "value": 6749.1
+      }
+    }
+  },
+  "productInfos": {
+    "listOne": {
+      "CPU": "AMD (customizado)",
+      "GPU": "AMD (customizado)",
+      "Memoria": "SSD 512GB",
+      "RAM": "16GB(compartilhado)",
+      "Wireless": "Wi-if ac",
+      "Bluetooth": "5.1"
+    },
+    "listTwo": {
+      "CPU": "AMD (customizado)",
+      "GPU": "AMD (customizado)",
+      "Memoria": "SSD 512GB", 
+      "RAM": "16GB(compartilhado)",
+      "Wireless": "Wi-if ac",
+      "Bluetooth": "5.1"
+    },
+    "description": "O PlayStation 5 será o console mais poderoso quando for anunciado, o que está previsto para 2020. Além da configuração atualizada, trazendo um chip customizado da AMD, virá com SSD embarcado e controle Wifi.",
+    "images": [
+      "/assets/mock/products-details/cartao-luiza.png",
+      "/assets/mock/products-details/apple.png",
+      "/assets/mock/products-details/samsung.png"
+    ]
+  },
+  "compareProducts": [
+    {
+      "mobileImageUrl": "/assets/mock/products/product-13.png",
+      "desktopImageUrl": "/assets/mock/products/product-13.png",
+      "urlRedirect": "/",
+      "price": 6749,
+      "storeLogo": "/assets/mock/products/product-logo-sony.png",
+      "installment": {
+        "value": 512.41,
+        "installment": 12,
+        "interestRate": true
+      },
+      "shipping": {
+        "minDays": 5,
+        "value": 0
+      },
+      "store": {
+        "type": "Loja física",
+        "isOpen": true,
+        "district": "Jardim Paulista",
+        "distance": 16
+      },
+      "rating": 5
+    },
+    {
+      "mobileImageUrl": "/assets/mock/products/product-14.png",
+      "desktopImageUrl": "/assets/mock/products/product-14.png",
+      "urlRedirect": "/",
+      "price": 7112.99,
+      "storeLogo": "/assets/mock/products/product-logo-bahia.png",
+      "installment": {
+        "value": 512.41,
+        "installment": 12,
+        "interestRate": true
+      },
+      "shipping": {
+        "minDays": 5,
+        "value": 0
+      },
+      "store": {
+        "type": "Loja física",
+        "isOpen": true,
+        "district": "Jardim Paulista",
+        "distance": 16
+      },
+      "rating": 3
+    }
+  ]
+}

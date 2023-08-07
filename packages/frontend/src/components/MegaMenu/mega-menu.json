@@ -1,0 +1,712 @@
+[
+  {
+    "label": "Celurares e telefones",
+    "banner": "/assets/mock/mega-menu/celulares.png",
+    "itens": [
+      {
+        "label": "Smartphone",
+        "url": "/categoria?name=smartphone",
+        "itens": [
+          {
+            "label": "Xiaomi Mi 9",
+            "url": "/categoria?name=xiaomimi9"
+          },
+          {
+            "label": "Xiaomi Redmi 7",
+            "url": "/categoria?name=xiaomiredmi7"
+          },
+          {
+            "label": "Galaxy S10",
+            "url": "/categoria?name=galaxys10"
+          },
+          {
+            "label": "Galaxy S9",
+            "url": "/categoria?name=galaxys9"
+          },
+          {
+            "label": "iPhone XR",
+            "url": "/categoria?name=iphonexr"
+          },
+          {
+            "label": "iPhone 8 Plus",
+            "url": "/categoria?name=iphone8plus"
+          },
+          {
+            "label": "iPhone 11 Pro",
+            "url": "/categoria?name=iphone11pro"
+          },
+          {
+            "label": "Moto One Vision",
+            "url": "/categoria?name=motoonevision"
+          },
+          {
+            "label": "Moto G7 Power",
+            "url": "/categoria?name=motog7power"
+          },
+          {
+            "label": "Moto G8 Plus",
+            "url": "/categoria?name=motog8plus"
+          }
+        ]
+      },
+      {
+        "label": "Linha iPhone",
+        "url": "/categoria?name=linhaiphone"
+      },
+      {
+        "label": "Acessórios para Celulares",
+        "url": "/categoria?name=acessoriosparacelulares"
+      },
+      {
+        "label": "Capas e Películas",
+        "url": "/categoria?name=capaspeliculas"
+      },
+      {
+        "label": "VER MAIS CELULARES E TELEFONES",
+        "url": "/categoria?name=vermaiscelularesetelefones"
+      }
+    ]
+  },
+  {
+    "label": "Informática",
+    "banner": "/assets/mock/mega-menu/informatica.png",
+    "itens": [
+      {
+        "label": "Notebook",
+        "itens": [
+          {
+            "label": "Macbook",
+            "url": "/categoria?name=macbook"
+          },
+          {
+            "label": "Notebook Dell",
+            "url": "/categoria?name=notebookdell"
+          },
+          {
+            "label": "Notebook Samsung",
+            "url": "/categoria?name=notebooksamsung"
+          },
+          {
+            "label": "Notebook HP",
+            "url": "/categoria?name=notebookhp"
+          },
+          {
+            "label": "Ultrabook",
+            "url": "/categoria?name=ultrabook"
+          }
+        ]
+      },
+      {
+        "label": "Tablet",
+        "itens": [
+          {
+            "label": "iPad",
+            "url": "/categoria?name=iPad"
+          },
+          {
+            "label": "Tablet Samsung",
+            "url": "/categoria?name=tabletesamsung"
+          }
+        ]
+      },
+      {
+        "label": "PC / Computador",
+        "itens": [
+          {
+            "label": "Computador All in One",
+            "url": "/categoria?name=computadorallinone"
+          }
+        ]
+      },
+      {
+        "label": "Impressora e Multifuncional",
+        "url": "/categoria?name=impressoraemultifuncional"
+      },
+      {
+        "label": "VER MAIS INFORMÁTICA",
+        "url": "/categoria?name=vermaisinformatica"
+      }
+    ]
+  },
+  {
+    "label": "TV e Eletrônicos",
+    "banner": "/assets/mock/mega-menu/tv.png",
+    "itens": [
+      {
+        "label": "TV",
+        "itens": [
+          {
+            "label": "Smart TV",
+            "url": "/categoria?name=smarttv"
+          },
+          {
+            "label": "TV 4K",
+            "url": "/categoria?name=tv4k"
+          },
+          {
+            "label": "TV 32 Polegadas",
+            "url": "/categoria?name=tv32polegadas"
+          },
+          {
+            "label": "TV 40 Polegadas",
+            "url": "/categoria?name=tv40polegadas"
+          },
+          {
+            "label": "TV 50 polegadas",
+            "url": "/categoria?name=tv50polegadas"
+          },
+          {
+            "label": "Smart TV 32'",
+            "url": "/categoria?name=smarttv32"
+          }
+        ]
+      },
+      {
+        "label": "Home Theater",
+        "itens": [
+          {
+            "label": "Home Theater LG",
+            "url": "/categoria?name=hometheaterlg"
+          },
+          {
+            "label": "Home Theater Sony",
+            "url": "/categoria?name=hometheatersony"
+          }
+        ]
+      },
+      {
+        "label": "Drones",
+        "url": "/categoria?name=drones"
+      },
+      {
+        "label": "Fone de Ouvido",
+        "itens": [
+          {
+            "label": "Fone de Ouvido Bluetooth",
+            "url": "/categoria?name=fonedeouvidobluetooth"
+          }
+        ]
+      },
+      {
+        "label": "Som Automotivo",
+        "url": "/categoria?name=somautomotivo"
+      },
+      {
+        "label": "VER MAIS TV E ELETRÔNICO",
+        "url": "/categoria?name=vermaistveeletronico"
+      }
+    ]
+  },
+  {
+    "label": "Eletrodomésticos",
+    "banner": "/assets/mock/mega-menu/eletrodomesticos.png",
+    "itens": [
+      {
+        "label": "Ar-Condicionado",
+        "itens": [
+          {
+            "label": "Ar-Condicionado LG",
+            "url": "/categoria?name=arcondicionadolg"
+          },
+          {
+            "label": "Ar-Condicionado Inverter",
+            "url": "/categoria?name=arcondicionadoinverter"
+          },
+          {
+            "label": "Ar-Condicionado Split",
+            "url": "/categoria?name=arcondicionadosplit"
+          }
+        ]
+      },
+      {
+        "label": "Geladeira / Refrigerador",
+        "itens": [
+          {
+            "label": "Geladeira Brastemp",
+            "url": "/categoria?name=geladeirabrastempo"
+          },
+          {
+            "label": "Geladeira Frost Free",
+            "url": "/categoria?name=frostfree"
+          }
+        ]
+      },
+      {
+        "label": "Micro-ondas",
+        "url": "/categoria?name=microondas"
+      },
+      {
+        "label": "Fogão",
+        "item": [
+          {
+            "label": "Cooktop",
+            "url": "/categoria?name=cooktop"
+          }
+        ]
+      },
+      {
+        "label": "Lavadora de Roupas",
+        "url": "/categoria?name=lavadoraderoupas"
+      },
+      {
+        "label": "Coifa",
+        "url": "/categoria?name=coifa"
+      },
+      {
+        "label": "VER MAIS ELETRODOMÉSTICOS",
+        "url": "/categoria?name=vermaiseletrodomésticos"
+      }
+    ]
+  },
+  {
+    "label": "Eletroportáteis",
+    "banner": "/assets/mock/mega-menu/eletroportateis.png",
+    "itens": [
+      {
+        "label": "Aspirador de Pó",
+        "itens": [
+          {
+            "label": "Aspirador de Pó Eletrolux",
+            "url": "/categoria?name=aspiradordepoeletrolux"
+          }
+        ]
+      },
+      {
+        "label": "Purificador de Água",
+        "itens": [
+          {
+            "label": "Purificador de Água Europa",
+            "url": "/categoria?name=purificadordeaguaeuropa"
+          }
+        ]
+      },
+      {
+        "label": "Fritadeira Elétrica",
+        "itens": [
+          {
+            "label": "Fritadeira Elétrica sem Óleo",
+            "url": "/categoria?name=fritadeiraeletricasemoleo"
+          }
+        ]
+      },
+      {
+        "label": "Ventilador e Circulador",
+        "itens": [
+          {
+            "label": "Ventilador de Teto",
+            "url": "/categoria?name=ventiladordeteto"
+          },
+          {
+            "label": "Circulador de Ar",
+            "url": "/categoria?name=circuladordear"
+          }
+        ]
+      },
+      {
+        "label": "Cafeteira Elétrica",
+        "url": "/categoria?name=cafeteiraeletrica"
+      },
+      {
+        "label": "Liquidificador",
+        "url": "/categoria?name=liquidificador"
+      },
+      {
+        "label": "Panela Elétrica",
+        "itens": [
+          {
+            "label": "Panela Elétrica de Arroz",
+            "url": "/categoria?name=panelaeletricadearroz"
+          }
+        ]
+      },
+      {
+        "label": "VER MAIS ELETROPORTÁTEIS",
+        "url": "/categoria?name=vermaiseletroportateis"
+      }
+    ]
+  },
+  {
+    "label": "Moda e Acessórios",
+    "banner": "/assets/mock/mega-menu/moda.png",
+    "itens": [
+      {
+        "label": "Calçados",
+        "url": "/categoria?name=calçados"
+      },
+      {
+        "label": "Tênis",
+        "itens": [
+          {
+            "label": "Tênis Nike",
+            "url": "/categoria?name=tenisnike"
+          },
+          {
+            "label": "Tênis Adidas",
+            "url": "/categoria?name=tenisadidas"
+          },
+          {
+            "label": "Tênis Asics",
+            "url": "/categoria?name=tenisasics"
+          }
+        ]
+      },
+      {
+        "label": "Botas",
+        "itens": [
+          {
+            "label": "Botas Femininas",
+            "url": "/categoria?name=votasfemininas"
+          },
+          {
+            "label": "Botas Masculinas",
+            "url": "/categoria?name=botasmasculinas"
+          }
+        ]
+      },
+      {
+        "label": "Sapatos",
+        "itens": [
+          {
+            "label": "Sapatos Femininos",
+            "url": "/categoria?name=sapatosfemininos"
+          },
+          {
+            "label": "Sapatos Masculinos",
+            "url": "/categoria?name=sapatosmasculinos"
+          }
+        ]
+      },
+      {
+        "label": "Bolsas",
+        "url": "/categoria?name=bolsas"
+      },
+      {
+        "label": "Camisa Camiseta e Blusa",
+        "url": "/categoria?name=camisacamisetaeblusa"
+      },
+      {
+        "label": "VER MAIS MODA E ACESSÓRIOS",
+        "url": "/categoria?name=vermaismodaeacessorios"
+      }
+    ]
+  },
+  {
+    "label": "Móveis e Decoração",
+    "banner": "/assets/mock/mega-menu/moveis.png",
+    "itens": [
+      {
+        "label": "Guarda-Roupas",
+        "itens": [
+          {
+            "label": "Guarda Roupa Solteiro",
+            "url": "/categoria?name=guardaroupasolteiro"
+          },
+          {
+            "label": "Guarda Roupa Casal",
+            "url": "/categoria?name=guardaroupacasal"
+          }
+        ]
+      },
+      {
+        "label": "Cama",
+        "itens": [
+          {
+            "label": "Cama Box",
+            "url": "/categoria?name=camabox"
+          }
+        ]
+      },
+      {
+        "label": "Sofá",
+        "itens": [
+          {
+            "label": "Sofá de Canto",
+            "url": "/categoria?name=sofadecanto"
+          }
+        ]
+      },
+      {
+        "label": "Rack",
+        "itens": [
+          {
+            "label": "Painel para TV",
+            "url": "/categoria?name=painelparatv"
+          }
+        ]
+      },
+      {
+        "label": "Sofá-Cama",
+        "url": "/categoria?name=sofacama"
+      },
+      {
+        "label": "Móveis para Escritório",
+        "url": "/categoria?name=moveisparaescritorio"
+      },
+      {
+        "label": "Armários de Cozinha",
+        "url": "/categoria?name=armariosdecozinha"
+      },
+      {
+        "label": "VER MAIS MÓVEIS DE DECORAÇÃO",
+        "url": "/categoria?name=vermaismoveisedecoracao"
+      }
+    ]
+  },
+  {
+    "label": "Esporte e Lazer",
+    "banner": "/assets/mock/mega-menu/esporte.png",
+    "itens": [
+      {
+        "label": "Tênis",
+        "url": "/categoria?name=tenis"
+      },
+      {
+        "label": "Bicicleta",
+        "itens": [
+          {
+            "label": "Bicicleta Infantil",
+            "url": "/categoria?name=bicicletainfantil"
+          },
+          {
+            "label": "Bicicleta Elétrica",
+            "url": "/categoria?name=bicicletaeletrica"
+          }
+        ]
+      },
+      {
+        "label": "Chuteiras",
+        "itens": [
+          {
+            "label": "Chuteiras Nike",
+            "url": "/categoria?name=chuteirasnike"
+          },
+          {
+            "label": "Chuteiras Society",
+            "url": "/categoria?name=chuteirassociety"
+          }
+        ]
+      },
+      {
+        "label": "Bicicleta Ergométrica",
+        "url": "/categoria?name=bicicletaergometrica"
+      },
+      {
+        "label": "Esteira Ergométrica",
+        "url": "/categoria?name=esteiraergométrica"
+      },
+      {
+        "label": "Piscina Inflável",
+        "url": "/categoria?name=piscinainflavel"
+      },
+      {
+        "label": "Monitor Cardíaco",
+        "url": "/categoria?name=monitorcardiaco"
+      },
+      {
+        "label": "Camisas de Futebol",
+        "url": "/categoria?name=camisasdefutebol"
+      },
+      {
+        "label": "VER MAIS ESPORTE E LAZER",
+        "url": "/categoria?name=vermaisesporteelazer"
+      }
+    ]
+  },
+  {
+    "label": "Games",
+    "banner": "/assets/mock/mega-menu/games.png",
+    "itens": [
+      {
+        "label": "Console de Video Game",
+        "itens": [
+          {
+            "label": "Xbox One",
+            "url": "/categoria?name=xboxone"
+          },
+          {
+            "label": "Xbox 360",
+            "url": "/categoria?name=xbox 360"
+          },
+          {
+            "label": "Playstation 4 (PS4)",
+            "url": "/categoria?name=playstation4"
+          },
+          {
+            "label": "Playstation 3 (PS3)",
+            "url": "/categoria?name=playstation3"
+          },
+          {
+            "label": "Nintendo Switch",
+            "url": "/categoria?name=nintendoswitch"
+          },
+          {
+            "label": "Nintendo 3DS",
+            "url": "/categoria?name=nintendo3ds"
+          }
+        ]
+      },
+      {
+        "label": "Jogos de Video Game",
+        "url": "/categoria?jogosdevideogame"
+      },
+      {
+        "label": "Jogos Xbox One",
+        "url": "/categoria?name=jogosxboxone"
+      },
+      {
+        "label": "Jogos Xbox 360",
+        "url": "/categoria?name=jogosxbox360"
+      },
+      {
+        "label": "Jogos para PS4",
+        "url": "/categoria?name=jogosparaps4"
+      },
+      {
+        "label": "Jogos para PS3",
+        "url": "/categoria?name=jogosparaps3"
+      },
+      {
+        "label": "Jogos Nintendo Switch",
+        "url": "/categoria?name=jogosnintendoswitch"
+      },
+      {
+        "label": "VER MAIS GAMES",
+        "url": "/categoria?name=vermaisgames"
+      }
+    ]
+  },
+  {
+    "label": "Outras categorias",
+    "noSubItens": true,
+    "itens": [
+      {
+        "label": "Automóveis e Veículos",
+        "url": "/categoria?name=automoveiseveiculos"
+      },
+      {
+        "label": "Bebês",
+        "url": "/categoria?name=bebes"
+      },
+      {
+        "label": "Beleza e Saúde",
+        "url": "/categoria?name=belezaesaude"
+      },
+      {
+        "label": "Brinquedos",
+        "url": "/categoria?name=brinquedos"
+      },
+      {
+        "label": "Cama, Mesa e Banho",
+        "url": "/categoria?name=camamesaebanho"
+      },
+      {
+        "label": "Casa e Jardim",
+        "url": "/categoria?name=casaejardin"
+      },
+      {
+        "label": "Casa Inteligente",
+        "url": "/categoria?name=casainteligente"
+      },
+      {
+        "label": "CD, DVD E Blu-Ray",
+        "url": "/categoria?name=cddvdbluray"
+      },
+      {
+        "label": "Celulares e Telefones",
+        "url": "/categoria?name=celularesetelefones"
+      },
+      {
+        "label": "Câmeras e Filmadoras",
+        "url": "/categoria?name=camerasefilmadoras"
+      },
+      {
+        "label": "Decoração de Natal",
+        "url": "/categoria?name=decoracaodenatal"
+      },
+      {
+        "label": "Eletrodomésticos",
+        "url": "/categoria?name=eletrodomesticos"
+      },
+      {
+        "label": "Eletroportáteis",
+        "url": "/categoria?name=eletroportateis"
+      },
+      {
+        "label": "Esporte e Lazer",
+        "url": "/categoria?name=esporteelazer"
+      },
+      {
+        "label": "Flores e Cestas",
+        "url": "/categoria?name=floresecestas"
+      },
+      {
+        "label": "Games",
+        "url": "/categoria?name=games"
+      },
+      {
+        "label": "Indústria e Comércio",
+        "url": "/categoria?name=industriaecomercio"
+      },
+      {
+        "label": "Informática",
+        "url": "/categoria?name=informatica"
+      },
+      {
+        "label": "Joalheria",
+        "url": "/categoria?name=joalheria"
+      },
+      {
+        "label": "Livros e Revistas",
+        "url": "/categoria?name=livroserevistas"
+      },
+      {
+        "label": "Moda e Acessórios",
+        "url": "/categoria?name=modaeacessorios"
+      },
+      {
+        "label": "Móveis e Decoração",
+        "url": "/categoria?name=moveisedecoracao"
+      },
+      {
+        "label": "Papelaria e Armarinho",
+        "url": "/categoria?name=papelariaearmarinho"
+      },
+      {
+        "label": "Perfumaria e Maquiagem",
+        "url": "/categoria?name=perfumariaemaquiagem"
+      },
+      {
+        "label": "Pet Shop",
+        "url": "/categoria?name=petshop"
+      },
+      {
+        "label": "Produtos Importados",
+        "url": "/categoria?name=produtosimportados"
+      },
+      {
+        "label": "Sex Shop",
+        "url": "/categoria?name=sexshop"
+      },
+      {
+        "label": "Supermercado Online",
+        "url": "/categoria?name=supermercadoonline"
+      },
+      {
+        "label": "Tabacaria",
+        "url": "/categoria?name=tabacaria"
+      },
+      {
+        "label": "TV e Eletrônicos",
+        "url": "/categoria?name=tveeletronicos"
+      },
+      {
+        "label": "Utilidades Domésticas",
+        "url": "/categoria?name=utilidadesdomesticas"
+      },
+      {
+        "label": "VER MAIS OUTRAS CATEGORIAS",
+        "url": "/categoria?name=vermaisoutrascategorias"
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "Brands": [
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-1.png",
+      "urlRedirect": "http://localhost:3000/loja/1"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-2.png",
+      "urlRedirect": "http://localhost:3000/loja/2"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-3.png",
+      "urlRedirect": "http://localhost:3000/loja/3"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-4.png",
+      "urlRedirect": "http://localhost:3000/loja/4"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-5.png",
+      "urlRedirect": "http://localhost:3000/loja/5"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-6.png",
+      "urlRedirect": "http://localhost:3000/loja/6"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-7.png",
+      "urlRedirect": "http://localhost:3000/loja/7"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-8.png",
+      "urlRedirect": "http://localhost:3000/loja/8"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-9.png",
+      "urlRedirect": "http://localhost:3000/loja/9"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-10.png",
+      "urlRedirect": "http://localhost:3000/loja/10"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-11.png",
+      "urlRedirect": "http://localhost:3000/loja/11"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-12.png",
+      "urlRedirect": "http://localhost:3000/loja/12"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-13.png",
+      "urlRedirect": "http://localhost:3000/loja/13"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-14.png",
+      "urlRedirect": "http://localhost:3000/loja/14"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-15.png",
+      "urlRedirect": "http://localhost:3000/loja/15"
+    },
+    {
+      "imageUrl": "/assets/mock/store-brands/brand-16.png",
+      "urlRedirect": "http://localhost:3000/loja/16"
+    }
+  ],
+  "ListInformation": [
+    {
+      "information": "Integração com marketplace"
+    },
+    {
+      "information": "Perfil próprio da loja"
+    },
+    {
+      "information": "Cadastro de produtos"
+    }
+  ]
+}

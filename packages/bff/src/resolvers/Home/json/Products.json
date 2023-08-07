@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "stores": 14,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-4.png",
+      "desktopImageUrl": "/assets/mock/products/product-4.png",
+      "urlRedirect":
+        "/produto?name=sony-playstation-5-825gb-standard-cor-branco-e-preto",
+      "title": "Sony PlayStation 5 825GB Standard cor branco e preto"
+    },
+    {
+      "stores": 10,
+      "minPrice": 4999,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-1.png",
+      "desktopImageUrl": "/assets/mock/products/product-1.png",
+      "urlRedirect": "/produto?name=apple-iphone-11-128-gb-preto",
+      "title": "Apple iPhone 11 (128 GB) - Preto"
+    },
+    {
+      "stores": 14,
+      "minPrice": 1304.91,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-2.png",
+      "desktopImageUrl": "/assets/mock/products/product-2.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Microondas Philco PME25BM prata 25L 220V"
+    },
+    {
+      "stores": 4,
+      "minPrice": 4599,
+      "category": "Televisores",
+      "mobileImageUrl": "/assets/mock/products/product-3.png",
+      "desktopImageUrl": "/assets/mock/products/product-3.png",
+      "urlRedirect":
+        "/produto?name=smart-tv-60-samsung-crystal-uhd-4k-60au8000-alexa-built-in",
+      "title": "Smart Tv 60 Samsung Crystal Uhd 4k 60au8000 Alexa Built In"
+    },
+    {
+      "stores": 3,
+      "minPrice": 6188,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-5.png",
+      "desktopImageUrl": "/assets/mock/products/product-5.png",
+      "urlRedirect":
+        "/produto?name=geladeira-frost-free-brastemp-brO80a-freezer-540l-127v",
+      "title": "Geladeira frost free Brastemp BRO80A freezer 540L 127V"
+    },
+    {
+      "stores": 4,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-6.png",
+      "desktopImageUrl": "/assets/mock/products/product-6.png",
+      "urlRedirect":
+        "/produto?name=smartphone-samsung-galaxy-s21ultra-5g-prata-256gb",
+      "title": "Smartphone Samsung Galaxy S21Ultra 5G Prata 256GB"
+    }
+  ]
+}

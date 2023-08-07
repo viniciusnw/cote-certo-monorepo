@@ -1,0 +1,28 @@
+{
+  "MenuLinks": [
+    {
+      "information": "Sobre o Cotecerto",
+      "urlRedirect": "http://localhost:3000"
+    },
+    {
+      "information": "Sua Privacidade",
+      "urlRedirect": "http://localhost:3000/minha-conta"
+    },
+    {
+      "information": "Seja Parceiro",
+      "urlRedirect": "http://localhost:3000/cadastro"
+    },
+    {
+      "information": "Dúvidas Frequentes",
+      "urlRedirect": "http://localhost:3000/cms/duvidas-frequentes"
+    },
+    {
+      "information": "Termos de uso",
+      "urlRedirect": "http://localhost:3000/cms/termos-de-uso"
+    },
+    {
+      "information": "Fale Conosco",
+      "urlRedirect": "http://localhost:3000/fale-conosco"
+    }
+  ]
+}

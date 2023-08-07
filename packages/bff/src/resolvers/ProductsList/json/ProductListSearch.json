@@ -1,0 +1,305 @@
+{
+  "banner": [
+    {
+      "imageUrl": "/assets/mock/list-products-banner-3.png"
+    }
+  ],
+  "filters": {
+    "selects": {
+      "orderBy": [
+        {
+          "name": "Menores valores antes"
+        },
+        {
+          "name": "Maiores valores antes"
+        }
+      ],
+      "categories": [
+        {
+          "id": 1,
+          "name": "Televisores"
+        },
+        {
+          "id": 2,
+          "name": "Videogames"
+        },
+        {
+          "id": 3,
+          "name": "impressoras"
+        },
+        {
+          "id": 3,
+          "name": "Smartphone"
+        },
+        {
+          "id": 3,
+          "name": "Microondas"
+        }
+      ],
+      "proximity": [
+        {
+          "id": 1,
+          "name": "1km"
+        },
+        {
+          "id": 2,
+          "name": "5km"
+        },
+        {
+          "id": 3,
+          "name": "10km"
+        }
+      ],
+      "states": [
+        {
+          "id": 1,
+          "name": "SP"
+        },
+        {
+          "id": 2,
+          "name": "MG"
+        },
+        {
+          "id": 3,
+          "name": "AM"
+        },
+        {
+          "id": 3,
+          "name": "MA"
+        }
+      ],
+      "brands": [
+        {
+          "id": 1,
+          "name": "Samsung"
+        },
+        {
+          "id": 2,
+          "name": "LG"
+        },
+        {
+          "id": 3,
+          "name": "AOC"
+        },
+        {
+          "id": 3,
+          "name": "Sharp"
+        },
+        {
+          "id": 3,
+          "name": "Panasonic"
+        }
+      ]
+    },
+    "checkboxs": {
+      "brands": [
+        {
+          "id": 1,
+          "name": "Samsung"
+        },
+        {
+          "id": 2,
+          "name": "LG"
+        },
+        {
+          "id": 3,
+          "name": "AOC"
+        },
+        {
+          "id": 3,
+          "name": "Sharp"
+        },
+        {
+          "id": 3,
+          "name": "Panasonic"
+        }
+      ],
+      "resolution": [
+        {
+          "id": 1,
+          "name": "Full HD"
+        },
+        {
+          "id": 2,
+          "name": "QHD"
+        },
+        {
+          "id": 3,
+          "name": "UHD/4k"
+        },
+        {
+          "id": 3,
+          "name": "8k"
+        }
+      ],
+      "screenWidth": [
+        {
+          "id": 1,
+          "name": "Menos de 40"
+        },
+        {
+          "id": 2,
+          "name": "40 até 48"
+        },
+        {
+          "id": 3,
+          "name": "50 até 65"
+        },
+        {
+          "id": 3,
+          "name": "Mais de 65"
+        }
+      ]
+    },
+    "radios": [
+      {
+        "value": "Frete gratis"
+      }
+    ],
+    "range": [
+      {
+        "price": {
+          "min": 100,
+          "max": 86000
+        }
+      }
+    ]
+  },
+  "products": [
+    {
+      "stores": 14,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-4.png",
+      "desktopImageUrl": "/assets/mock/products/product-4.png",
+      "urlRedirect": "/produto?name=sony-playstation-5-825gb-standard-cor-branco-e-preto",
+      "title": "Sony PlayStation 5 825GB Standard cor branco e preto"
+    },
+    {
+      "stores": 10,
+      "minPrice": 4999,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-1.png",
+      "desktopImageUrl": "/assets/mock/products/product-1.png",
+      "urlRedirect": "/produto?name=apple-iphone-11-128-gb-preto",
+      "title": "Apple iPhone 11 (128 GB) - Preto"
+    },
+    {
+      "stores": 14,
+      "minPrice": 1304.91,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-2.png",
+      "desktopImageUrl": "/assets/mock/products/product-2.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Microondas Philco PME25BM prata 25L 220V"
+    },
+    {
+      "stores": 4,
+      "minPrice": 4599,
+      "category": "Televisores",
+      "mobileImageUrl": "/assets/mock/products/product-3.png",
+      "desktopImageUrl": "/assets/mock/products/product-3.png",
+      "urlRedirect": "/produto?name=smart-tv-60-samsung-crystal-uhd-4k-60au8000-alexa-built-in",
+      "title": "Smart Tv 60 Samsung Crystal Uhd 4k 60au8000 Alexa Built In"
+    },
+    {
+      "stores": 3,
+      "minPrice": 6188,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-5.png",
+      "desktopImageUrl": "/assets/mock/products/product-5.png",
+      "urlRedirect": "/produto?name=geladeira-frost-free-brastemp-brO80a-freezer-540l-127v",
+      "title": "Geladeira frost free Brastemp BRO80A freezer 540L 127V"
+    },
+    {
+      "stores": 4,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-6.png",
+      "desktopImageUrl": "/assets/mock/products/product-6.png",
+      "urlRedirect": "/produto?name=smartphone-samsung-galaxy-s21ultra-5g-prata-256gb",
+      "title": "Smartphone Samsung Galaxy S21Ultra 5G Prata 256GB"
+    },
+    {
+      "stores": 14,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-4.png",
+      "desktopImageUrl": "/assets/mock/products/product-4.png",
+      "urlRedirect": "/produto?name=sony-playstation-5-825gb-standard-cor-branco-e-preto",
+      "title": "Sony PlayStation 5 825GB Standard cor branco e preto"
+    },
+    {
+      "stores": 10,
+      "minPrice": 4999,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-1.png",
+      "desktopImageUrl": "/assets/mock/products/product-1.png",
+      "urlRedirect": "/produto?name=apple-iphone-11-128-gb-preto",
+      "title": "Apple iPhone 11 (128 GB) - Preto"
+    },
+    {
+      "stores": 14,
+      "minPrice": 1304.91,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-2.png",
+      "desktopImageUrl": "/assets/mock/products/product-2.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Microondas Philco PME25BM prata 25L 220V"
+    },
+    {
+      "stores": 4,
+      "minPrice": 4599,
+      "category": "Televisores",
+      "mobileImageUrl": "/assets/mock/products/product-3.png",
+      "desktopImageUrl": "/assets/mock/products/product-3.png",
+      "urlRedirect": "/produto?name=smart-tv-60-samsung-crystal-uhd-4k-60au8000-alexa-built-in",
+      "title": "Smart Tv 60 Samsung Crystal Uhd 4k 60au8000 Alexa Built In"
+    },
+    {
+      "stores": 3,
+      "minPrice": 6188,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-5.png",
+      "desktopImageUrl": "/assets/mock/products/product-5.png",
+      "urlRedirect": "/produto?name=geladeira-frost-free-brastemp-brO80a-freezer-540l-127v",
+      "title": "Geladeira frost free Brastemp BRO80A freezer 540L 127V"
+    },
+    {
+      "stores": 4,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-6.png",
+      "desktopImageUrl": "/assets/mock/products/product-6.png",
+      "urlRedirect": "/produto?name=smartphone-samsung-galaxy-s21ultra-5g-prata-256gb",
+      "title": "Smartphone Samsung Galaxy S21Ultra 5G Prata 256GB"
+    },
+    {
+      "stores": 14,
+      "minPrice": 6749.1,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-4.png",
+      "desktopImageUrl": "/assets/mock/products/product-4.png",
+      "urlRedirect": "/produto?name=sony-playstation-5-825gb-standard-cor-branco-e-preto",
+      "title": "Sony PlayStation 5 825GB Standard cor branco e preto"
+    },
+    {
+      "stores": 10,
+      "minPrice": 4999,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-1.png",
+      "desktopImageUrl": "/assets/mock/products/product-1.png",
+      "urlRedirect": "/produto?name=apple-iphone-11-128-gb-preto",
+      "title": "Apple iPhone 11 (128 GB) - Preto"
+    },
+    {
+      "stores": 14,
+      "minPrice": 1304.91,
+      "category": "Videogames",
+      "mobileImageUrl": "/assets/mock/products/product-2.png",
+      "desktopImageUrl": "/assets/mock/products/product-2.png",
+      "urlRedirect": "/produto?name=microondas-philco-pme25bm-prata-25l-220v",
+      "title": "Microondas Philco PME25BM prata 25L 220V"
+    }
+  ]
+}
